@@ -20,4 +20,7 @@ DAMMIT Bob! always roughening my life!
 
 this is what Ted and Alice did on Ted's laptop.
 
-this fun conflict
+This is Ted's work!  All mine!
+
+I am ready to go home for the weekend! this less then fun!
+ahhhhhhhhhhhhhhhh
