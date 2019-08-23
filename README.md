@@ -7,3 +7,5 @@ Ted had never create any branch , two times he pulled from master and worked the
 In the pair Bob and Carol pair programming, Carol failed to navigate Bob to git pull origin master before creating a new branch from master.
 
 Later when Carol was working with Ted they should not have been working directly on the master branch.
+
+Alice failed navigate Ted to create a branch first time. Then she did not ask Ted whether she should’ve created a branch after resolving the first merge conflict when she was driving.
